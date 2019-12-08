@@ -42,6 +42,9 @@ module.exports = (sequelize, DataType) => {
             allowNull: false,
             defaultValue: false
         }
+    },
+    {
+        timestamps: false
     });
 
     return Carreras;
