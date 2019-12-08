@@ -18,7 +18,7 @@ module.exports = app => {
             })
         });
 
-    app.route('/carreras/:id')
+    app.route('/carreras/:num_sec')
         .get((req, res) => {
             Carreras.findOne({where: req.params})
             .then(result => res.json(result))
