@@ -15,14 +15,14 @@
   "dependencies": {
     "consign": "^0.1.6",
     "express": "^4.17.1",
-    "sequelize": "^5.21.2",
+    "sequelize": "^5.21.6",
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.7.5",
-    "@babel/core": "^7.7.5",
-    "@babel/node": "^7.7.4",
-    "@babel/preset-env": "^7.7.5",
-    "nodemon": "^2.0.1"
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
+    "nodemon": "^2.0.2"
   }
 }
