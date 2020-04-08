@@ -4,7 +4,7 @@ module.exports = {
     password: '',    
     params: {    
         dialect: 'sqlite',    
-        storage:'carreras.sqlite',
+        storage:'carreras.db',
         define: {
             underscore: true
         }   
