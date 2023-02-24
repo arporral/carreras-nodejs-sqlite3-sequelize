@@ -16,7 +16,7 @@
     "consign": "^0.1.6",
     "express": "^4.17.1",
     "npm-check-updates": "^7.1.1",
-    "sequelize": "^6.3.4",
+    "sequelize": "^6.29.0",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
